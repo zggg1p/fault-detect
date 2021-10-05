@@ -1,3 +1,3 @@
 # -fault-detect
-这个项目是对焊接芯片的状态进行分类，考虑到问题的复杂程度，只进行二分类，即正常与不正常。
-通过对全连接网络、卷积神经网络、Google Net微调的测试，我们发现微调Google Net效果最好，在满分80分的情况下，最高达到了70分。
+This project is to classify the state of the welding chip. Considering the complexity of the problem, only two classifications are carried out, namely normal and abnormal.  
+Through the test of fully connected network, convolutional neural network and Fine-tuning Of Google Net, we found that fine-tuning of Google Net had the best effect, reaching the highest score of 70 out of a full score of 80.  
